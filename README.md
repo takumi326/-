@@ -9,8 +9,54 @@
 
 ## 機能紹介
 
-| Top | ホーム画面 |
-| --- | --- |
-| [Image from Gyazo](https://gyazo.com/875c5f5703ed0340ffbdd53074bac8a7) | [Image from Gyazo](https://gyazo.com/875c5f5703ed0340ffbdd53074bac8a7) |
-| リアルタイムバリデーションを用いて実装 | ユーザーに応じたおすすめスポットの表示 |
+### ログイン前
+| Top | 
+| --- | 
+| ![Image from Gyazo](https://i.gyazo.com/875c5f5703ed0340ffbdd53074bac8a7.png) |
+| まずはゲストログインで試してみてください。 | 
 
+| サインアップ | ログイン |
+| --- |--- |
+| ![Image from Gyazo](https://i.gyazo.com/e5a932187ae647381f7c8b2d4dabb4d3.png) | ![Image from Gyazo](https://i.gyazo.com/6c435ca49e13497f459ec83d73af750d.png) |
+| メールアドレスとパスワードでアカウント作成できます。 |メールアドレスとパスワードでログインできます。 |
+
+
+
+### ログイン後
+#### 共通機能
+| カレンダー | テーブル |
+| --- | --- |
+| ![Image from Gyazo](https://i.gyazo.com/5e51fc103cf185fd936e71d6f8f76e2e.gif) | ![Image from Gyazo](https://i.gyazo.com/5e51fc103cf185fd936e71d6f8f76e2e.gif) |
+| カレンダーにはそれぞれの設定した日が表示されます。 | 共通でソート、見出しの表示/非表示、削除機能があります。 |
+
+| リピート作成機能 | リピート詳細機能 |
+| --- | --- |
+| ![Image from Gyazo](https://i.gyazo.com/5e51fc103cf185fd936e71d6f8f76e2e.gif) | ![Image from Gyazo](https://i.gyazo.com/5e51fc103cf185fd936e71d6f8f76e2e.gif) |
+| 共通でソート、見出しの表示/非表示、削除機能があります。 | 支出ではクレジットカードなど、収入では会社などを入力します。 |
+
+#### お金管理
+| テーブル | 分類作成 |
+| --- | --- |
+| ![Image from Gyazo](https://i.gyazo.com/5e51fc103cf185fd936e71d6f8f76e2e.gif) | ![Image from Gyazo](https://i.gyazo.com/5e51fc103cf185fd936e71d6f8f76e2e.gif) |
+| 新規作成したものが折りたたまれています。 | 支出ではクレジットカードなど、収入では会社などを入力します。 |
+
+| カテゴリー作成 | 残高間での送金 |
+| --- | --- |
+| ![Image from Gyazo](https://i.gyazo.com/5e51fc103cf185fd936e71d6f8f76e2e.gif) | ![Image from Gyazo](https://i.gyazo.com/5e51fc103cf185fd936e71d6f8f76e2e.gif) |
+| 事前によく使いそうなものを何個かリストアップしています。 | 貯金用、給料振込用などで分けた残高間での送金を行えます。 |
+
+| 新規作成（支出/収入） | 新規作成（残高） |
+| --- | --- |
+| ![Image from Gyazo](https://i.gyazo.com/5e51fc103cf185fd936e71d6f8f76e2e.gif) | ![Image from Gyazo](https://i.gyazo.com/5e51fc103cf185fd936e71d6f8f76e2e.gif) |
+|  分類、カテゴリ、金額、リピート設定、日時を入力できます。 | 名称（銀行など）、金額を入力できます。 |
+
+#### 目標/タスク管理
+| テーブル | 
+| --- | 
+| ![Image from Gyazo](https://i.gyazo.com/5e51fc103cf185fd936e71d6f8f76e2e.gif) | 
+| 未完了/完了/すべてで表示内容を変更、複数選択の削除ができます。 | 
+
+| 新規作成（目標） | 新規作成（タスク） |
+| --- | --- |
+| ![Image from Gyazo](https://i.gyazo.com/5e51fc103cf185fd936e71d6f8f76e2e.gif) | ![Image from Gyazo](https://i.gyazo.com/5e51fc103cf185fd936e71d6f8f76e2e.gif) |
+| 目標名（資格、ダイエットなど）、達成したい目標（合格、何点、-5kgなど）、期限を入力できます。 | タスク名（参考書Ｐ1～15、カフェで勉強など）、関連する目標、リピート設定、日時を入力できます |
